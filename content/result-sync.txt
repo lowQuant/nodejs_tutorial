@@ -1,0 +1,4 @@
+Here is the result : Hello this is our first text file., Hello this is our second text file!
+
+haha
+Here is the result : Hello this is our first text file., Hello this is our second text file!Here is the result : Hello this is our first text file., Hello this is our second text file!
